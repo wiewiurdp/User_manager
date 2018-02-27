@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efb9250a-84d5-439d-8c1e-13529cb50afe" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rest/config/db-default.php" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rest/config/db.php" afterPath="$PROJECT_DIR$/rest/config/db.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -114,6 +113,7 @@
         <option value="$PROJECT_DIR$/rest/config/db-default.php" />
         <option value="$PROJECT_DIR$/rest/config/db.php" />
         <option value="$PROJECT_DIR$/rest/config/db.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -207,13 +207,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../FoodSharer" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/rest/config" />
-      <recent name="$PROJECT_DIR$/rest/css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/rest" />
       <recent name="$PROJECT_DIR$/frontend" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/rest/config" />
+      <recent name="$PROJECT_DIR$/rest/css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -242,12 +243,12 @@
       <workItem from="1519392792060" duration="29185000" />
       <workItem from="1519514030415" duration="17606000" />
       <workItem from="1519595658488" duration="27367000" />
-      <workItem from="1519691568496" duration="27000" />
+      <workItem from="1519691568496" duration="458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103501000" />
+    <option name="totallyTimeSpent" value="103932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
@@ -690,6 +691,14 @@
             <marker date="1519681844010" expanded="true" signature="6180:6552" ph="..." />
             <marker date="1519681844010" expanded="true" signature="6458:6552" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
